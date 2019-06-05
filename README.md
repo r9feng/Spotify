@@ -153,10 +153,20 @@ Interesting
 
 ## Lyrics (analysis)
 
-Explain sentiment analysis methodology. 
+Dividing the number of words used with the vocabulary gives us a measure of the lexical richness of each artist (i.e., what proportion of the words used in the songs are distinct). 
+For sentiment analysis, I used NLTK's sentiment analyzer gives a normalized unidimensional metric of sentiment of a given sentence. This value can be thresholded to determine whether the sentence is considered positive, negative, or neutral.
+
+Below are the word clouds of the entirety of the Billboard 100 songs and my playlist songs.
+
+<p align="center">
+  <img src="WordClouds/all_bbWC.png?raw=true" width="600" />
+  <img src="WordClouds/all_myWC.png?raw=true" width="600" /> 
+</p>
+
+Many of the most common words in lyrics are the same for both sets of songs ("know", "Love", "Want/Wanna"). Although I was surprised to see "Never" as one of the most common words. 
 
 ### Favorite artists
-I examined lyrical features of the top 5 most reoccuring artists on the Billboard 100 and my own playlists.
+I also examined lyrical features of the top 5 most reoccuring artists on the Billboard 100 and my own playlists.
 
 <table>
 <tr><th>Billboard 100 </th><th>My Playlist</th></tr>
@@ -182,6 +192,76 @@ I examined lyrical features of the top 5 most reoccuring artists on the Billboar
 | Phantogram | 3 |
 
 </td></tr> </table>
+
+Drake
+
+<p align="center">
+  <img src="WordClouds/drake.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_drake.png?raw=true" width="224" /> 
+</p>
+
+Maroon 5
+
+<p align="center">
+  <img src="WordClouds/maroon 5.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_maroon 5.png?raw=true" width="224" /> 
+</p>
+
+Ariana Grande
+
+<p align="center">
+  <img src="WordClouds/ariana grande.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_ariana grande.png?raw=true" width="224" /> 
+</p>
+
+Taylor Swift
+
+<p align="center">
+  <img src="WordClouds/taylor swift.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_taylor swift.png?raw=true" width="224" /> 
+</p>
+
+Imagine Dragons
+
+<p align="center">
+  <img src="WordClouds/imagine dragons.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_imagine dragons.png?raw=true" width="224" /> 
+</p>
+
+Wild Child
+
+<p align="center">
+  <img src="WordClouds/wild child.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_wild child.png?raw=true" width="224" /> 
+</p>
+
+DYAN
+
+<p align="center">
+  <img src="WordClouds/dyan.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_dyan.png?raw=true" width="224" /> 
+</p>
+
+Sjowgren
+
+<p align="center">
+  <img src="WordClouds/sjowgren.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_sjowgren.png?raw=true" width="224" /> 
+</p>
+
+Many Voices Speak
+
+<p align="center">
+  <img src="WordClouds/many voices speak.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_many voices speak.png?raw=true" width="224" /> 
+</p>
+
+Phantogram
+
+<p align="center">
+  <img src="WordClouds/phantogram.png?raw=true" width="300" />
+  <img src="Distributions/sentiment_phantogram.png?raw=true" width="224" /> 
+</p>
 
 # Clustering 
 
