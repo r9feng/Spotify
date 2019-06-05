@@ -2,7 +2,7 @@
 
 An exploratory deep dive into audio and lyrical features of my personal favorite songs and of popular Billboard Top 100 songs.
 
-I would describe my music taste as open, I tend to enjoy various types of music. In general, I have a propensity for lesser-known, independent (or indie) music but in terms of genres, I listen to a wide variety. I can appreciate anything with narrative lyrics, rich orchestrations or dynamic melody progressions. My curated Favorites playlist I contains 100 songs covering a wide spectrum of music genres including pop, rock, hip-hop, jazz rap, and folk. 
+I would describe my music taste as open, I tend to enjoy various types of music. In general, I have a propensity for lesser-known, independent (or indie) music but in terms of genres, I listen to a wide variety. I can appreciate anything with narrative lyrics, rich orchestrations or dynamic melody progressions. For this analysis, I curated a Favorites playlist that contains 100 songs which I've most enjoyed over the years, covering a wide spectrum of music genres including pop, rock, hip-hop, jazz rap, and folk. 
 
 Table of Contents
 -----------------
