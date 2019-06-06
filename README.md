@@ -271,7 +271,6 @@ We have 16 variables available to cluster upon, which drastically increases comp
 
 I chose to use the Recursive Feature Elimination (RFE) method which recursively removing attributes and building a model on those attributes that remain. It uses the model accuracy to identify which attributes (and combination of attributes) contribute the most to predicting the target attribute. In this case, I used sklearn's LogisticRegression and RFE library to build a logistic regression model which attempts to predict whether a song is from the Billboard 100 or from my playlist. The following features were found to have the most impact on the mental health class variable.
 
-Variable importance
 | Rank  | Song Attribute  |
 |-|---|
 |  1 | Words Per Minute  |
