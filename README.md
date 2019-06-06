@@ -196,19 +196,12 @@ I also examined lyrical features of the top 5 most reoccuring artists on the Bil
 
 </td></tr> </table>
 
- <div id="expand-box">
- <div id="expand-box-header" class="clearfix">
-  <span style="float: left;">Drak</span> 
-  <span style="float: right;">Maroon 5</span>
- </div>
- <div id="expand_box_sub_header">e</div>
- </div>
-
+Drake                                               Maroon 5
 <p align="center">
-  <img src="WordClouds/drake.png?raw=true" width="440" title="Angular"/>
+  <img src="WordClouds/drake.png?raw=true" width="400" title="Angular"/>
   <img src="Distributions/sentiment_drake.png?raw=true" width="74" /> 
   <img src="Distributions/sentiment_maroon 5.png?raw=true" width="74" /> 
-  <img src="WordClouds/maroon 5.png?raw=true" width="440" />
+  <img src="WordClouds/maroon 5.png?raw=true" width="400" />
 </p>
 
 Drake
