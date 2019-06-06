@@ -273,7 +273,7 @@ I chose to use the Recursive Feature Elimination (RFE) method which recursively 
 
 Variable importance
 | Rank  | Song Attribute  |
-|:-:|---|
+|-|---|
 |  1 | Words Per Minute  |
 |  2 | Loudness |
 |  3 | lexical_richness  |
