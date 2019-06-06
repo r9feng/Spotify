@@ -136,8 +136,8 @@ I examined lyrical features of the top 5 most reoccuring artists on the Billboar
 Correlation maps:
 
 <p align="center">
-  <img src="Distributions/bb_corr_map.png?raw=true" width="500" />
-  <img src="Distributions/my_corr_map.png?raw=true" width="500" /> 
+  <img src="Distributions/bb_corr_map.png?raw=true" width="800" />
+  <img src="Distributions/my_corr_map.png?raw=true" width="1000" /> 
 </p>
 
 The correlation structure of both datasets appears to be similar. An interesting difference being that song duration and danceability are much more negatively correlated amongst my songs compared to Billboard songs.
