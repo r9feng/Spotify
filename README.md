@@ -42,7 +42,7 @@ The popular music data used consisted of Billboard Year-End Hot 100 Singles from
 
 ### Lyric Data
 
-After retrieving songs, lyrical data is retrieved from Genius.com using the Genius API and searching by 
+After retrieving songs, lyric data is retrieved from Genius.com using the Genius API and searching by song title and artist name. Lyrics are cleaned and stored as raw text.
 
 ### Spotify Data
 
