@@ -37,7 +37,7 @@ Once the data was collected, it was cleaned to ensure that there were no missing
 The popular music data used consisted of Billboard Year-End Hot 100 Singles from 2013 to 2018 and each single's corresponding lyrics. The range of years aligns with my undergraduate timeline and where I think began developing my musical profile. I scraped the data from relevant [Wikipedia tables](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2018). I created a Python script and used the BeautifulSoup library to parse the Wikipedia html page. 
 
 <p align="center">
-  <img src="Data/Wiki_screen.png?raw=true" width="600" /> 
+  <img src="Data/Wiki_screen.png?raw=true" width="800" /> 
 </p>
 
 ### Lyric Data
