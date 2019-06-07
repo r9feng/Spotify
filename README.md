@@ -288,9 +288,9 @@ However, WPM vs. Tempo exhibited clearer homogeneous clusters for both sets of d
 
 It's interesting to see that tempo and words per minute are the main factors that divides both dataset into three clusters, implying that there exist three types of songs: 
 
-- Low WPM, Low Tempo: Calm/Chill music. Little to no lyrical content with (eg. )
-- Low WPM, High Tempo: (eg. )
-- High WPM, Any Tempo: Hip-hop or Rap songs. High lyrical content at all tempos (eg. Logic, Travis Scott, BROCKHAMPTON)
+- Low WPM, Low Tempo: Calm and chill songs, slow pace (eg. Habits - Tove Lo, See You Again - Charlie Puth)
+- Low WPM, High Tempo: Upbeat, melody focused songs, intermittent or slow lyrics (eg. Malibu - Miley Cyrus, Timber - Ke$ha)
+- High WPM, Any Tempo: Hip-hop or Rap songs. High lyrical content at all tempos (eg. Gucci Gang - Lil Pump, Sicko Mode - Travis Scott)
 
 
 # Visualizing High Dimensions
