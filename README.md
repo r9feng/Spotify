@@ -171,24 +171,24 @@ I also examined lyrical features of the top 5 most reoccuring artists on the Bil
 <tr><th>Billboard 100 </th><th>My Playlist</th></tr>
 <tr><td>
 
-|Artist| # Songs |
-|--|--|
-| Drake | 19 |
-| Maroon 5 | 13 |
-| Ariana Grande | 11 |
-| Taylor Swift | 11 |
-| Imagine Dragons | 11 |
+|Artist| # Songs | Mean WPM | Mean Lexical Richness (%)|
+|--|--|--|--|
+| Drake | 17 | 114.2| 32.7|
+| Maroon 5 | 13 | 100.8| 23.9|
+| Ariana Grande | 11 | 106.2| 25.7|
+| Taylor Swift | 11 | 105.6 | 26.6 |
+| Imagine Dragons | 10 |82.9|30.7|
 
 
 </td><td>
 
-|Artist| # Songs |
-|--|--|
-| Wild Child | 6 |
-| DYAN | 4 |
-| Sjowgren | 4 |
-| Many Voices Speak | 3 |
-| Phantogram | 3 |
+|Artist| # Songs | Mean WPM | Mean Lexical Richness (%) |
+|--|--| -- | -- |
+| Wild Child | 6 | 64.6| 31.0 |
+| DYAN | 4 | 33.1| 36.5 |
+| Sjowgren | 4 | 37.2| 36.8|
+| Many Voices Speak | 3 | 23.4 |42.6|
+| Phantogram | 3 | 28.3| 51.8 |
 
 </td></tr> </table>
 
@@ -260,7 +260,7 @@ I chose to use the Recursive Feature Elimination (RFE) method which recursively 
 
 As expected, the probabilistic classification variables like instrumentalness, liviness, acousticness were least important. The top eight features were kept while rest were removed to reduce complexity of our clusters.
 
-Aside: I attempted to predict the binary classifiction with 5 fold cross validation using the logistic regression. This yielded very poor predictions with an AUC of 0.32 (fpr, tpr better?) which further reinforces the lack of difference between the two sets as a whole.
+Aside: I attempted to predict the binary classifiction with 5 fold cross validation using the logistic regression. This yielded very poor predictions with an AUC of 0.58  which reinforces the lack of difference between the two sets in terms of prediction, however this is by no means conclusive as a full predictive model exploration was not in the scope of this project.
 
 ## K-Means Clustering
 
@@ -287,7 +287,7 @@ However, WPM vs. Tempo exhibited clearer homogeneous clusters for both sets of d
 
 It's interesting to see that tempo and words per minute are the main factors that divides both dataset into three clusters, implying that there exist three types of songs: 
 
-- Low WPM, Low Tempo: (eg. )
+- Low WPM, Low Tempo: Calm/Chill music. Little to no lyrical content with (eg. )
 - Low WPM, High Tempo: (eg. )
 - High WPM, Any Tempo: Hip-hop or Rap songs. High lyrical content at all tempos (eg. Logic, Travis Scott, BROCKHAMPTON)
 
@@ -322,9 +322,9 @@ Finally, I projected all of the top 5 artists from Billboard 100 and My playlist
 
 # Conclusions
 
-In general, I found that while audio and lyrical differences are present between segmented music groups (ie. Artists), differences in musical profile seem to disappear once a wide variety of artists and genres are incorporated. My personal playlist 
+In general, I found that while audio and lyrical differences are present between segmented music groups (ie. Artists), differences in musical profile seem to disappear once a wide variety of artists and genres are incorporated. My personal playlist appears to be slower pace and less energetic on average, but is not markedly different from features of the Billboard 100.
 
-In examining During analysis, I noticed 
+Using k-Means clustering with 3 clusters, I found that both sets of songs clustered in the same way with Tempo and WPM being the most dominant factors in cluster determination. When visualizing the songs with t-SNE, these clusters indicated a small degree of separation by genre (eg. rap and hip-hop music was clearly grouped) but obvious distinctions were not omnipresent. 
 
 
 
