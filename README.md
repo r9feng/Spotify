@@ -223,10 +223,10 @@ I also examined lyrical features of the top 5 most reoccuring artists on the Bil
 
 
 <p align="center">
-  <img src="Images/WordClouds/imagine dragons.png?raw=true" width="355" />
-  <img src="Images/Distributions/sentiment_imagine dragons.png?raw=true" width="72" /> 
-    <img src="Images/Distributions/sentiment_phantogram.png?raw=true" width="72" /> 
-  <img src="Images/WordClouds/phantogram.png?raw=true" width="355" />
+  <img src="Images/WordClouds/imagine dragons.png?raw=true" width="354" />
+  <img src="Images/Distributions/sentiment_imagine dragons.png?raw=true" width="71" /> 
+    <img src="Images/Distributions/sentiment_phantogram.png?raw=true" width="71" /> 
+  <img src="Images/WordClouds/phantogram.png?raw=true" width="354" />
 </p>
 
 It was surprising to see Drake lyrics are more positive while Taylor Swift lyrics are more negative. Furthermore, it's evident that different artists have highly varying lyrical content and sentiment. Perhaps, differences in musical profile disappear once a wide variety of artists and genres are incorporated? We'll look at some unsupervised clustering to identify natural groups of songs to investigate this further.
