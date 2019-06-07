@@ -63,6 +63,7 @@ For the purposes of this study, the following audio features were retrieved:
 | Speechiness | Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. |
 | Key| The estimated overall key of the track. Integers map to pitches using standard Pitch Class notation . E.g. 0 = C, 1 = C♯/D♭, 2 = D|
 | Mode| Mode indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived.|
+| Time Signature| An estimated overall time signature of a track. The time signature (meter) is a notational convention to specify how many beats are in each bar|
 
 ## Feature Engineering
 
