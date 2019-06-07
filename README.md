@@ -21,7 +21,7 @@ Table of Contents
 * [Clustering](#clustering)
     * [Feature Selection](#feature-selection)
     * [K-Means](#k-means-clustering)
-* [Visualizing High Dimensions](#Visualizing-high-dimensions)
+* [Visualizing High Dimensions](#visualizing-high-dimensions)
 * [Conclusions](#conclusions)
 
 
