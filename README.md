@@ -243,20 +243,20 @@ I chose to use the Recursive Feature Elimination (RFE) method which recursively 
 |-|---|
 |  1 | Words Per Minute  |
 |  2 | Loudness |
-|  3 | lexical_richness  |
-|  4 | danceability  |
+|  3 | Lexical Richness  |
+|  4 | Danceability  |
 |  5 | Valence  |
-|  6 | energy  |
-|  7 | sentiment  |
+|  6 | Energy  |
+|  7 | Sentiment  |
 |  8 | Tempo  |
 |  9 | Instrumentalness  |
 |  10 | Liveness  |
 |  11 | Duration  |
-|  12 | key  |
-|  13 | speechiness  |
-|  14 | time_signature |
-|  15 | acousticness  |
-|  16 | mode (remove) |
+|  12 | Key  |
+|  13 | Speechiness  |
+|  14 | Time Signature |
+|  15 | Acousticness  |
+|  16 | Mode |
 
 As expected, the probabilistic classification variables like instrumentalness, liviness, acousticness were least important. The top eight features were kept while rest were removed to reduce complexity of our clusters.
 
