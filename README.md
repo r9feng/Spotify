@@ -105,7 +105,7 @@ Blue = Billboard 100
 Orange = My Playlist
 
 <p align="center">
-  <img src="Images/Distributions/audio_var.png?raw=true" width="1000" />
+  <img src="Images/Distributions/audio_var.png?raw=true" width="1200" />
 </p>
 
 It is interesting to see similar distributions of most audio features (tempo too!). My music appears to be slightly less danceable, lower energy, and quieter. The only significantly different feature is popularity: my music is expectedly much less popular.
@@ -115,7 +115,7 @@ It is interesting to see similar distributions of most audio features (tempo too
 Explain sentiment analysis methodology
 
 <p align="center">
-  <img src="Images/Distributions/lyric_var.png?raw=true" width="1000" /> 
+  <img src="Images/Distributions/lyric_var.png?raw=true" width="1200" /> 
 </p>
 
 Here we some differences in lexical richness and words per minute. My music tends to be more lyrically complex but slower "spoken". As for sentiment, my music is more neutral, with less positive and negative lyrical expressions.
