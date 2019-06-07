@@ -193,32 +193,32 @@ I also examined lyrical features of the top 5 most reoccuring artists on the Bil
 </td></tr> </table>
 
 <p align="center">
-  <img src="Images/WordClouds/drake.png?raw=true" width="355"/> 
-  <img src="Images/Distributions/sentiment_drake.png?raw=true" width="72" /> 
-  <img src="Images/Distributions/sentiment_wild child.png?raw=true" width="72" /> 
-  <img src="Images/WordClouds/wild child.png?raw=true" width="355" />
+  <img src="Images/WordClouds/drake.png?raw=true" width="354"/> 
+  <img src="Images/Distributions/sentiment_drake.png?raw=true" width="71" /> 
+  <img src="Images/Distributions/sentiment_wild child.png?raw=true" width="71" /> 
+  <img src="Images/WordClouds/wild child.png?raw=true" width="354" />
 </p>
 
 <p align="center">
-  <img src="Images/WordClouds/maroon 5.png?raw=true" width="355" />
-   <img src="Images/Distributions/sentiment_maroon 5.png?raw=true" width="72" /> 
-    <img src="Images/Distributions/sentiment_dyan.png?raw=true" width="72" /> 
-  <img src="Images/WordClouds/dyan.png?raw=true" width="355" />
+  <img src="Images/WordClouds/maroon 5.png?raw=true" width="354" />
+   <img src="Images/Distributions/sentiment_maroon 5.png?raw=true" width="71" /> 
+    <img src="Images/Distributions/sentiment_dyan.png?raw=true" width="71" /> 
+  <img src="Images/WordClouds/dyan.png?raw=true" width="354" />
 </p>
 
 <p align="center">
-  <img src="Images/WordClouds/ariana grande.png?raw=true" width="355" />
-  <img src="Images/Distributions/sentiment_ariana grande.png?raw=true" width="72" /> 
-    <img src="Images/Distributions/sentiment_sjowgren.png?raw=true" width="72" /> 
-  <img src="Images/WordClouds/sjowgren.png?raw=true" width="355" />
+  <img src="Images/WordClouds/ariana grande.png?raw=true" width="354" />
+  <img src="Images/Distributions/sentiment_ariana grande.png?raw=true" width="71" /> 
+    <img src="Images/Distributions/sentiment_sjowgren.png?raw=true" width="71" /> 
+  <img src="Images/WordClouds/sjowgren.png?raw=true" width="354" />
 </p>
 
 
 <p align="center">
-  <img src="Images/WordClouds/taylor swift.png?raw=true" width="355" />
-  <img src="Images/Distributions/sentiment_taylor swift.png?raw=true" width="72" /> 
-    <img src="Images/Distributions/sentiment_many voices speak.png?raw=true" width="72" /> 
-  <img src="Images/WordClouds/many voices speak.png?raw=true" width="355" />
+  <img src="Images/WordClouds/taylor swift.png?raw=true" width="354" />
+  <img src="Images/Distributions/sentiment_taylor swift.png?raw=true" width="71" /> 
+    <img src="Images/Distributions/sentiment_many voices speak.png?raw=true" width="71" /> 
+  <img src="Images/WordClouds/many voices speak.png?raw=true" width="354" />
 </p>
 
 
