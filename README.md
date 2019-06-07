@@ -23,7 +23,6 @@ Table of Contents
     * [K-Means](#k-means-clustering)
 * [Visualizing High Dimensions](#Visualizing-high-dimensions)
 * [Conclusions](#conclusions)
-* [Future Work](#future-work)
 
 
 
